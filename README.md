@@ -1,8 +1,3 @@
-
-# 目的
-学习线程池demo以及camke尝试
-
-
 ThreadPool
 ==========
 
