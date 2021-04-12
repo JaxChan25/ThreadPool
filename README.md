@@ -1,3 +1,6 @@
+# 目的
+git fork /线程池 /cmake的demo学习
+
 ThreadPool
 ==========
 
