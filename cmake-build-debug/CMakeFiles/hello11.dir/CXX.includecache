@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jax/CLionProjects/hello11/ThreadPool.h
+vector
+-
+queue
+-
+memory
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+future
+-
+functional
+-
+stdexcept
+-
+
+/Users/jax/CLionProjects/hello11/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+ThreadPool.h
+/Users/jax/CLionProjects/hello11/ThreadPool.h
+
